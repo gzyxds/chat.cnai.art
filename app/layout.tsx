@@ -8,7 +8,7 @@ import { SessionProvider } from 'next-auth/react';
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Hivechat - Chatbot for team",
+  title: "艺创AI - 同时和多个机器人聊天",
   description: "同时和多个机器人聊天，最快获取最佳结果",
 };
 
